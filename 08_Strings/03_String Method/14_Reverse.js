@@ -1,0 +1,10 @@
+let str="Bhuvan";
+let step1=str.split("");
+console.log(step1);
+let step2=step1.reverse();
+console.log(step2);
+let Ulta=step2.join("");
+console.log("---------------------------");
+console.log("Original String "+str);
+console.log("Reversed String : "+Ulta);
+console.log("---------------------------");
