@@ -1,0 +1,40 @@
+1) What Is Function ?
+--> Function is block of code , it can be invoke / call whenever its needed.
+2) Step to create basic function .
+--> step 01 : firstly we used Reserved key word function .
+    step 02 : Then we give the "function name " along with paranthesis.
+    step 03 : Also used " { } " Brackets .
+    step 04 : In the curley Brackets write a work that you want to execute.
+    step 05 : Then Lat call the function .
+
+    Example;
+    --> function myFunction(){
+        console.log("Hello World");
+    }
+    myFunction();
+3) Step to create a function using Arguments or parameters .
+--> step 01 : firstly we used Reserved key word function .
+    step 02 : Then we give the "function name " along with paranthesis.
+    step 03 : In the Functin paranthesis we pass one or more PARAMETERS. 
+    step 03 : Also used " { } " Brackets .
+    step 04 : In the curley Brackets write a work that you want to execute.
+    step 05 : Then Last call the function along with parameters value.
+
+    Example;
+    --> funtion add(a,b){
+         return a+b;
+    }
+    let result=add(9,3);
+    console.log(result);
+
+    # In The above example in which a,b be the parameters that pass.
+    # Scope of that parameter is within ONLY RESPECTIVE FUNCTION.
+    # AFTER that lastly we pass valued wrt parameters.
+
+4) Step to create Arrow Function .
+--> step 01 : The arrow function is used as a variable .Just like we are declare normal variable.
+    step 02 : firstly we declare , using "const" keyword then write a function name along with equal sign and  paranthesis.
+    step 03 : step up no. 2 then used ==> sign along with curley brackets .
+    step 04 : In between { } curley brackets , we can add executable code .
+
+
