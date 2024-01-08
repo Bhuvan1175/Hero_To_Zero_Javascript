@@ -4,5 +4,3 @@ for(let i=0;i<Marks.length;i++){
     sum=sum+Marks[i];
 }
 console.log(`Sum of ${Marks} is : ${sum}`);
-
-
