@@ -1,1 +1,6 @@
-
+In this variable Chapter we have seen the how to declare and assign a variable ..
+We Have discussed all three keywords that used when we declare variables in program..
+eg. Let , Const ,Var .
+Declaration Of Variable..
+eg. a=2; its called initialisation
+    var b ; its called Declare and not assign value 
