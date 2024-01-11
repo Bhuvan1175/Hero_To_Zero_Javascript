@@ -1,0 +1,8 @@
+.myclass{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    margin: 5px;
+    background-color: burlywood;
+    text-align: center;
+}
