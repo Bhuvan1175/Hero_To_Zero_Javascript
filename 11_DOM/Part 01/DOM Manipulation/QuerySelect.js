@@ -3,7 +3,7 @@
 
 let firstElement=document.querySelector("p");
 console.dir(firstElement);
-let firstId=document.querySelector("myid");
-console.dir(firstElement);
-let firstclass=document.querySelector("myclass");
-console.dir(firstElement);
+let firstId=document.querySelector("#myid");
+console.dir(firstId);
+let firstclass=document.querySelector(".myclass");
+console.dir(firstclass);
