@@ -1,0 +1,17 @@
+h2 span{
+    color: rgb(0, 0, 0);
+    background-color: chartreuse;
+}
+p{
+    font-size: 18px;
+    text-decoration: dotted;
+    color: rgb(161, 32, 116);
+    font-weight: bold;
+}
+h3{
+    color: teal;
+}
+button{
+    background-color: red;
+    color: white;
+}
