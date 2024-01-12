@@ -1,0 +1,13 @@
+# Whay Is An Events ?
+In JavaScript, events are actions or occurrences in the browser, like clicking a button or typing.
+Event handlers are functions that respond to these events. 
+Common events include clicks, key presses, form submissions, and window actions.
+
+# Events Type 
+-->
+    (*) Mouse events (click, double click etc.)
+    (*) Keyboard events (keypress, keyup, keydown)
+    (*) Form events (submit etc.)
+    (*) Load Event
+    (*) Change Event
+    (*) Print event & many more.
