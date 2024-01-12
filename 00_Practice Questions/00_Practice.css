@@ -6,3 +6,10 @@
     background-color: burlywood;
     text-align: center;
 }
+.content{
+    color: red;
+    font-style: italic;
+}
+.newclass{
+    background-color: green;
+}
