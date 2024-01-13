@@ -1,4 +1,4 @@
-// Que 2. Create a const object called “profile” to store information shown in the picture.
+// Que 2. Create a const object calleud “profile” to store information shown in the picture.
 
 const profile={
     username:"shradhakhapra",
