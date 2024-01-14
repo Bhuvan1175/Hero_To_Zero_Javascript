@@ -1,0 +1,10 @@
+Data Type In Javascript -->
+In There are so many Data Type in JS 
+such as 
+1) Number  --> It's Represent only Numeric Value
+2) String  --> It's Represent Collection of characters.
+3) Boolean --> It Represent only two Value 'true' or 'false'.
+4) BigInt --> This is new Keyword release by ECMA in 2020, it represented the long numeric value.. eg 123456789n. 
+5) Undefined --> this data type represent we declare variable but not assign any value yet.
+6) Null --> The data type represent the the variable is empty , mean there is no value assign  in it.
+7) Symbol
