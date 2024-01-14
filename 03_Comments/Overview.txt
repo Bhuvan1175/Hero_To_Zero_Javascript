@@ -1,0 +1,4 @@
+The Comments in Js -->
+ Its used  for developers understanding the line of that they written..
+ if thy wants to open it on future then they can understand , for what matter we used to write this block of code in our code..
+  so comment in js its denoted by "//".
