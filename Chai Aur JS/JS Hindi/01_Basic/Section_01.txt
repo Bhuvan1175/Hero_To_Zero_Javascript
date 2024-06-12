@@ -1,1 +1,1 @@
-
+This Is a First Section in which we covered the topic like variable , Data Type , conversion , comparision and numbers and maths and Date Time ..
