@@ -1,1 +1,1 @@
-
+This Section belongs to Array and objects in JS
