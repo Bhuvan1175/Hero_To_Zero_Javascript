@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <style>
+      button {
+        margin-top: 20px;
+        padding: 7px;
+        border-radius: 5px;
+        margin-left: 10%;
+        min-width: 5rem;
+      }
+
+      img {
+        margin-left: 50px;
+        margin-top: 20px;
+        border: 1 px solid black;
+        border-radius: 5px;
+      }
+
+      div {
+        border-radius: 5px;
+        margin-left: 35%;
+      }
+      #postView{
+        margin-top: 10%;
+      }
+      #commentadd{
+        text-align: center;
+      }
+    </style>
+  </head>
+
+  <body style="background-color: black;">
+    <!-- <button onclick="console.log('Liked Post')">Like</button> -->
+    <h2 id="postView" style="text-align: center; color: white;"></h2>
+    <div
+      style="
+        width: 400px;
+        height: 400px;
+        background-color: rgb(104, 179, 179);
+        border: 1px solid black;
+      "
+    >
+      <img src="post.jpg" height="300px" width="300px" />
+      <button
+        style="background-color: rgb(232, 29, 29); color: white;"
+        id="like"
+      >
+        Like
+      </button>
+      <button id="comment">Comment</button>
+      <button id="share" style="background-color: blue; color: white;">
+        Share
+      </button>
+    </div>
+    <span id="commentadd" style="color: white;"></span>
+    <script src="02-onclick.js"></script>
+    <script src="03-EventListner.js"></script>
+  </body>
+</html>
+
+<!-- Events are signal that something has occured -->
