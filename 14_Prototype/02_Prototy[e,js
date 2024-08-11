@@ -1,0 +1,9 @@
+const bhuviHero={
+    name:"Bhuvi",
+    age:25,
+    occupation:"Software Engineer"
+}
+Object.prototype.bhuvi=function(){
+    console.log("Prototype Created");
+}
+bhuviHero.bhuvi();
